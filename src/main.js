@@ -6,6 +6,7 @@ export const categories = [
   { id: "10-main", label: "10-main", min: 0, max: 1, defaultValue: 1 },
   { id: "20-hands", label: "20-hands", min: 0, max: 2, defaultValue: 1 },
   { id: "20-shoes", label: "20-shoes", min: 0, max: 3, defaultValue: 3 },
+  { id: "22-pants", label: "22-pants", min: 0, max: 1, defaultValue: 0 },
   // TODO: Hier können neue Teile hinzugefügt werden.
 ]
 
