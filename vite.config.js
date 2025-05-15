@@ -16,5 +16,5 @@ export default defineConfig({
     outDir: "docs",
   },
   // Change this to your repo name
-  base: "/07-generative-art/",
+  base: "/07-gemeinsame-zufallsbilder-teacher/",
 })
